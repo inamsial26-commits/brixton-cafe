@@ -1,0 +1,8 @@
+{
+  "name": "Brixton",
+  "description": "Visit BRIXTON CAFE & RESTAURANT in Qadirpur Ran for delicious fast food, a welcoming dining experience and late-night cravings. Call or WhatsApp us today.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
